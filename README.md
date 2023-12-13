@@ -34,8 +34,7 @@
 
 # CreateForm-
 
-[Title](Frontend/src/pages/AddForms.jsx)
-
+![Alt text](Frontend/src/Assets/CreateForm.png)
 
 # Preview-
 
