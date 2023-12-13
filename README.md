@@ -30,10 +30,15 @@
 
 # HomePage-
 
+ ![Alt text](Home.png)
 
 # CreateForm-
 
+[Title](Frontend/src/pages/AddForms.jsx)
+
 
 # Preview-
+
+![Alt text](Frontend/src/Assets/Preview.png)
 
 
