@@ -4,7 +4,7 @@
 
 # Deployed Links-
 * Backend- https://bolo-server.onrender.com
-* Frontend-https://bolo-round-1-q7ea6depn-shubhampar.vercel.app
+* Frontend-https://bolo-frontend.vercel.app/
 
 # Functionality Built-
 * Creating Forms: Utilize a drag-and-drop interface to effortlessly add and personalize form elements.
