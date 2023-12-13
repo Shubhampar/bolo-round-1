@@ -4,13 +4,13 @@
 
 # Deployed Links-
 * Backend- https://bolo-server.onrender.com
-* Frontend-
+* Frontend-https://bolo-round-1-q7ea6depn-shubhampar.vercel.app
 
 # Functionality Built-
 * Creating Forms: Utilize a drag-and-drop interface to effortlessly add and personalize form elements.
 * Managing Forms: Access a centralized dashboard to view, edit, delete, and preview forms.
 * Live Preview: See immediate visual updates as changes are applied to form layout or elements.
-* Three Types of forms-Categorize,Cloze, Comprehension with drag and drop feature as per the requirement.
+* Three Types of forms-Categorize, Cloze, and Comprehension with drag and drop feature as per the requirement.
 
 # Technologies Used-
 
